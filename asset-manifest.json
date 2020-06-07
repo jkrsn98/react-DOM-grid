@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-DOM-grid/static/css/main.f5d2ceb5.chunk.css",
+    "main.js": "/react-DOM-grid/static/js/main.f2893f74.chunk.js",
+    "main.js.map": "/react-DOM-grid/static/js/main.f2893f74.chunk.js.map",
+    "runtime-main.js": "/react-DOM-grid/static/js/runtime-main.dd2f1d30.js",
+    "runtime-main.js.map": "/react-DOM-grid/static/js/runtime-main.dd2f1d30.js.map",
+    "static/js/2.927f11f9.chunk.js": "/react-DOM-grid/static/js/2.927f11f9.chunk.js",
+    "static/js/2.927f11f9.chunk.js.map": "/react-DOM-grid/static/js/2.927f11f9.chunk.js.map",
+    "index.html": "/react-DOM-grid/index.html",
+    "precache-manifest.05dae5d027aaeb51a46e661bf8b76ed7.js": "/react-DOM-grid/precache-manifest.05dae5d027aaeb51a46e661bf8b76ed7.js",
+    "service-worker.js": "/react-DOM-grid/service-worker.js",
+    "static/css/main.f5d2ceb5.chunk.css.map": "/react-DOM-grid/static/css/main.f5d2ceb5.chunk.css.map",
+    "static/js/2.927f11f9.chunk.js.LICENSE.txt": "/react-DOM-grid/static/js/2.927f11f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd2f1d30.js",
+    "static/js/2.927f11f9.chunk.js",
+    "static/css/main.f5d2ceb5.chunk.css",
+    "static/js/main.f2893f74.chunk.js"
+  ]
+}
